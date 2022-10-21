@@ -2,7 +2,7 @@
 
 I'm currently a student with [Code Institute](https://codeinstitute.net/) studying towards a diploma in Full Stack Software Development. My goal is to gain new skills and find creative ways to apply them as I develop my career.
 
-Feel free to check out my projects and add me on LinkedIn!
+Feel free to check out my projects and add me on [LinkedIn!](https://www.linkedin.com/in/philip-jambrisak/)
 
 ## Languages, Frameworks and Tools
 
