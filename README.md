@@ -2,15 +2,17 @@
 
 I'm currently a student with [Code Institute](https://codeinstitute.net/) studying towards a diploma in Full Stack Software Development. My goal is to gain new skills and find creative ways to apply them as I develop my career.
 
-Feel free to check out my projects and add me on [LinkedIn!](https://www.linkedin.com/in/philip-jambrisak/)
+Feel free to check out my projects and add me on [![linkedin](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/philip-jambrisak/)
 
-## Languages, Frameworks and Tools
+## Development of **Front-End** applications and UX techniques
 
-:seedling: I’m currently learning..
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,py,react)](https://skills.thijs.gg)
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-</p>
+## A complete set of modules for the **Full Stack** toolkit
+
+The ability to access databases, test code, and work with agile development teams
+
+[![My Skills](https://skills.thijs.gg/icons?i=django,bootstrap,jquery,postgres,jest,nodejs,flask)](https://skills.thijs.gg)
 
 :computer: Current skill set includes..
 
