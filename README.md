@@ -17,13 +17,13 @@ Feel free to check out my projects and add me on
 
 ## Development of **Front-End** applications and UX techniques
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,py,react)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,py,react,tailwind)](https://skills.thijs.gg)
 
 ## A complete set of modules for the **Full Stack** toolkit
 
 The ability to access databases, test code, and work with agile development teams
 
-[![My Skills](https://skills.thijs.gg/icons?i=django,bootstrap,jquery,postgres,jest,nodejs,flask)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=django,bootstrap,jquery,postgres,jest,nodejs, nextjs)](https://skills.thijs.gg)
 
 ## My GitHub Stats
 
