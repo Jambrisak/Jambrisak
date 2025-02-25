@@ -19,12 +19,12 @@
 - Cybersecurity & Compliance (M365 Security, Defender, Conditional Access)
 - Linux & Linux Servers (Ubuntu, CentOS, automation)
 
-##🔭 What I'm Currently Working On
+## 🔭 What I'm Currently Working On
 Application Integration – Integrating a new application into an existing IT environment.  
 User Training & Education – Educating employees on best practices for Microsoft 365.  
 SharePoint Deployment – Setting up and configuring a SharePoint environment to optimize collaboration and document management.  
 
-##📚 Continuous Learning
+## 📚 Continuous Learning
 I'm always expanding my expertise in Microsoft 365, as there is always more to learn and improve.  
 
 ## 📫 Connect with me
