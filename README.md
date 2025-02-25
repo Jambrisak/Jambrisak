@@ -1,24 +1,26 @@
-# Hi :wave:, I'm Philip
+Hi there! 👋 I'm Philip
+🚀 Microsoft 365 Specialist Consultant at Great IT
 
-I'm currently working at Great IT as a 365 specialist consultant.
+🔹 Passionate about Microsoft 365, Azure, Security, and Automation
+🔹 Helping businesses optimize their cloud environments and security postures
+🔹 Always learning and sharing knowledge in the IT community
 
+🔧 Tech & Skills
+Microsoft 365 (Exchange, SharePoint, Teams, OneDrive)
+Azure (AD, Intune, Virtual Machines, Logic Apps)
+Power Platform (Power Automate, Power Apps, Power BI)
+Security & Compliance (Defender, Conditional Access, MFA, DLP)
+Scripting & Automation (PowerShell, Bash, Python)
+Windows Server & Active Directory
+Networking (DNS, DHCP, VPN, Firewalls)
+PowerShell Scripting & Automation
+Exchange & SharePoint Online
+Cybersecurity & Compliance
+Linux & Linux Servers
 
-[![linkedin](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/philip-jambrisak/)
-
-## Work experience
-- MDriven - Junior Software Developer
-- Bredband2 - Junior IT Technician
-- 365 Microsoft Specialist - Great IT
-
-## Development of **Front-End** applications and UX techniques
-
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,py,react,tailwind)](https://skills.thijs.gg)
-
-## A complete set of modules for the **Full Stack** toolkit
-
-The ability to access databases, test code, and work with agile development teams
-
-[![My Skills](https://skills.thijs.gg/icons?i=django,bootstrap,jquery,postgres,jest,nodejs,nextjs)](https://skills.thijs.gg)
+📫 Connect with me
+📧 Email: philip.jambrisak@greatit.se
+🔗 LinkedIn: Philip Jambrisak
 
 ## My GitHub Stats
 
