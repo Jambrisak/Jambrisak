@@ -1,26 +1,26 @@
 ## Hi there! 👋 I'm Philip
 ### 🚀 Microsoft 365 Specialist Consultant at Great IT
 
-### 🔹 Passionate about Microsoft 365, Azure, Security, and Automation
-### 🔹 Helping businesses optimize their cloud environments and security postures
-### 🔹 Always learning and sharing knowledge in the IT community
+🔹 Passionate about Microsoft 365, Azure, Security, and Automation
+🔹 Helping businesses optimize their cloud environments and security postures
+🔹 Always learning and sharing knowledge in the IT community
 
 ## 🔧 Tech & Skills
-### Microsoft 365 (Exchange, SharePoint, Teams, OneDrive)
-### Azure (AD, Intune, Virtual Machines, Logic Apps)
-### Power Platform (Power Automate, Power Apps, Power BI)
-### Security & Compliance (Defender, Conditional Access, MFA, DLP)
-### Scripting & Automation (PowerShell, Bash, Python)
-### Windows Server & Active Directory
-### Networking (DNS, DHCP, VPN, Firewalls)
-### PowerShell Scripting & Automation
-### Exchange & SharePoint Online
-### Cybersecurity & Compliance
-### Linux & Linux Servers
+Microsoft 365 (Exchange, SharePoint, Teams, OneDrive)
+Azure (AD, Intune, Virtual Machines, Logic Apps)
+Power Platform (Power Automate, Power Apps, Power BI)
+Security & Compliance (Defender, Conditional Access, MFA, DLP)
+Scripting & Automation (PowerShell, Bash, Python)
+Windows Server & Active Directory
+Networking (DNS, DHCP, VPN, Firewalls)
+PowerShell Scripting & Automation
+Exchange & SharePoint Online
+Cybersecurity & Compliance
+Linux & Linux Servers
 
 ## 📫 Connect with me
-### 📧 Email: philip.jambrisak@greatit.se
-### 🔗 LinkedIn: Philip Jambrisak
+📧 Email: philip.jambrisak@greatit.se
+🔗 LinkedIn: Philip Jambrisak
 
 ## My GitHub Stats
 
