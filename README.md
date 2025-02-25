@@ -19,7 +19,7 @@
 - Linux & Linux Servers
 
 ## 📫 Connect with me
-📧 Email: philip.jambrisak@greatit.se
+📧 Email: philip.jambrisak@greatit.se  
 🔗 LinkedIn: Philip Jambrisak
 
 ## My GitHub Stats
