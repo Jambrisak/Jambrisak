@@ -1,52 +1,50 @@
-## Hi there! 👋 I'm Philip
-### 🚀 Microsoft 365 Specialist Consultant at Great IT
-### 💼 Specializing in Microsoft 365, Azure, Linux, and IT infrastructure
+# 👋 Hi, I'm Philip Jambrisak
 
-🔹 Passionate about Microsoft 365, Azure, Security, and Automation  
-🔹 Helping businesses optimize their cloud environments and security postures  
-🔹 Always learning and sharing knowledge in the IT community  
+## 🚀 Microsoft 365 Specialist Consultant at Great IT
 
-## 🔧 Tech & Skills
-- Microsoft 365 (Exchange, SharePoint, Teams, OneDrive)
-- Azure (AD, Intune, Virtual Machines, Logic Apps)
-- Power Platform (Power Automate, Power Apps, Power BI)
-- Security & Compliance (Defender, Conditional Access, MFA, DLP)
-- Scripting & Automation (PowerShell, Bash, Python)
-- Windows Server & Active Directory
-- Networking (DNS, DHCP, VPN, Firewalls)
-- PowerShell Scripting & Automation
-- Exchange & SharePoint Online
-- Cybersecurity & Compliance (M365 Security, Defender, Conditional Access)
-- Linux & Linux Servers (Ubuntu, CentOS, automation)
+I'm a driven IT consultant passionate about Microsoft 365, Azure, and secure IT infrastructure. With a background spanning end-user support, cloud services, and automation, I help businesses modernize their environments and boost productivity and security. My approach blends technical depth with hands-on experience and a constant curiosity for what’s next in cloud technology.
+
+---
+
+## 🔧 Technical Skills
+
+- **Microsoft 365**: Exchange Online, SharePoint, Teams, OneDrive, Compliance
+- **Azure**: Azure AD, Intune, Virtual Machines, Logic Apps
+- **Power Platform**: Power Automate, Power Apps, Power BI
+- **Security & Compliance**: Microsoft Defender, Conditional Access, MFA, DLP
+- **Scripting & Automation**: PowerShell, Bash, Python
+- **Windows Server & Active Directory**
+- **Networking**: DNS, DHCP, VPN, Firewalls
+- **Linux**: Ubuntu, CentOS, automation & server management
+
+---
 
 ## 🔭 What I'm Currently Working On
-Application Integration – Integrating a new application into an existing IT environment.  
-User Training & Education – Educating employees on best practices for Microsoft 365.  
-SharePoint Deployment – Setting up and configuring a SharePoint environment to optimize collaboration and document management.  
 
-## 📚 Continuous Learning
-I'm always expanding my expertise in Microsoft 365, as there is always more to learn and improve.  
+- **Application Integration** – Connecting new SaaS tools into existing Microsoft environments
+- **User Enablement** – Training and educating users on best practices in Microsoft 365
+- **SharePoint Deployment** – Designing and configuring sites for collaboration, knowledge sharing, and document management
 
-## 📫 Connect with me
-📧 Email: philip.jambrisak@greatit.se  
-🔗 LinkedIn: philip-jambrisak  
-🌐 Company: Great IT  
+---
 
-## My GitHub Stats
+## 📚 Lifelong Learning
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Jambrisak&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+I'm constantly learning and expanding my expertise in Microsoft cloud services, security, and automation — staying current is key to delivering value.
 
-<!--
-**Jambrisak/Jambrisak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Get in Touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Email: [philip@jambrisak.se](mailto:philip@jambrisak.se)
+- 🔗 LinkedIn: [philip-jambrisak](https://www.linkedin.com/in/philip-jambrisak/)
+- 🌐 Company: [Great IT](https://greatit.se/)
+
+---
+
+> 💬 *Always open to collaboration, knowledge-sharing, and meaningful projects. Let’s connect!*
+
+---
+
+## 📊 GitHub Stats (Optional)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipjambrisak&layout=compact&theme=default)
