@@ -47,4 +47,4 @@ I'm constantly learning and expanding my expertise in Microsoft cloud services, 
 
 ## 📊 GitHub Stats (Optional)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipjambrisak&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jambrisak&layout=compact&theme=default)
